@@ -1,2 +1,1 @@
-[InternetShortcut]
-URL=javascript:jQuery(function(){ var $ = jQuery; $('.display_editable_works').appendTo('html'); $('._layout-thumbnail').unwrap();     $('body').children().remove(); $('.display_editable_works').appendTo('body'); window.scroll(0, 480); })
+javascript:jQuery(function(){ var $ = jQuery; $('.display_editable_works').appendTo('html'); $('._layout-thumbnail').unwrap();     $('body').children().remove(); $('.display_editable_works').appendTo('body'); window.scroll(0, 480); })
